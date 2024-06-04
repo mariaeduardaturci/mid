@@ -1,0 +1,24 @@
+#ima1 {width: 80%;
+}
+@media screen and (max-width: 500px) {
+    body {background-color: rgb(161, 6, 71);}
+}
+#ima1 {border:solid 10px rgb(0, 0, 0)
+}
+@media screen and (min-width: 800px) {
+   h1 {font-size: 200%;
+       color:rgb(202, 55, 1)}
+}
+h1  {border:solid 10px rgb(0, 0, 0)
+}
+@media screen and (max-width: 900px) {
+    h2 {font-size: 300%;
+    color: grey;}
+}
+@media screen and (min-width: 500px) {
+    body {background-color: rgb(125, 6, 161);}
+}
+@media screen and (max-width: 500px) {
+    h3 {font-size: 300%;
+    color: rgb(3, 206, 20);}
+}
